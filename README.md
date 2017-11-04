@@ -1,5 +1,5 @@
 # website-blocker
-This is python program which does'nt allow websites to load which are distracting while working hours
+This is the python program which does'nt allow websites to load which are distracting while working hours
 This file will run automatically when you start your pc/laptop 
 
 # Changes you can make in program as per your convenience
