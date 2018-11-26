@@ -22,7 +22,7 @@ For Mac and Linux users:
 For Windows users:
   You have to create a task in task Sceduler
   Steps:
-  1. open task sceduler
+  1. open task scheduler
   2. create task
   3. give any name to the task and check run with high previligies
   4. go to the trigger tab above and set begin the program as At startup
